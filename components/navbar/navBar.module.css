@@ -1,0 +1,23 @@
+
+
+body {
+    display: flex;
+    justify-content: center;
+}
+ul {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+
+}
+li {
+    list-style-type: none;
+}
+.link {
+    text-decoration: none;
+    color: green;
+}
+.link:hover {
+    color: #016601;
+    text-decoration: underline;
+}

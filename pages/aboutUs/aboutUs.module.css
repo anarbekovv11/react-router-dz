@@ -1,0 +1,12 @@
+tbody {
+    margin: 0 auto;
+}
+tr {
+    padding: 10px;
+}
+tr:nth-child(odd) {
+    background: rgba(114, 110, 114, 0.4);
+}
+tr:nth-child(even) {
+    background: #E8E6D1;
+}
